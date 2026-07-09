@@ -1,0 +1,6 @@
+
+hostinger:
+
+MySQL database name: registernext
+MySQL username: registernext
+
